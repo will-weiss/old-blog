@@ -14,7 +14,7 @@ The Aurelia II is extremely capable but is far more expensive, requires training
 
 The moka pot merely makes coffee but is far more affordable, requires no training to use, and is trivial to clean and maintain. These are attractive qualities for the average family that wants to make a straightforward, good cup of coffee.
 
-Suppose that family also wants to make, let’s say, a cappuccino? They might separately purchase a milk steamer to go along with their Bialetti. In addition, those who wish to control how finely their beans are ground can buy their own coffee grinder. So while the use cases of the Bialetti by itself are limited, additional features may be added separately that, when combined, still allow for a wide range of beverages to be crafted.
+What if that family also wants to make, let’s say, a cappuccino? They might separately purchase a milk steamer to go along with their Bialetti. In addition, those who wish to control how finely their beans are ground can buy their own coffee grinder. So while the use cases of the Bialetti by itself are limited, additional features may be added separately that, when combined, still allow for a wide range of beverages to be crafted.
 
 Suppose a new product manager at Bialetti surveys the market and finds that tastes in coffee are incredibly varied. They might ask for a machine such as the Aurelia II to be produced and they would not be wrong. Nevertheless, a mature engineer would still inform them of the tradeoffs they might not know they are making when encouraging a more complicated product to be built.
 
