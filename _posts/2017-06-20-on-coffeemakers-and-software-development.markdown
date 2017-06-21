@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Coffeemakers and Software Development"
-date:   2017-06-20 07:00:00 -0400
+date:   2017-06-20 09:00:00 -0400
 categories: development
 ---
 Anyone who has worked with me has probably noted my strong affinity for coffee in all its varieties. Depending on my mood, I might enjoy breaking up the day with a cappuccino, mocha, latte, flat white, macchiato, espresso, kalita, Turkish or French press coffee. To service ~~addicts~~ afficianados like me, coffee shops might install a machine such as the [Nuova Simonelli Aurelia II](http://www.espressooutlet.net/nuova-simonelli-aurelia-ii-3-group-volumetric-commercial-espresso-machine/?gclid=CjwKEAjwgtTJBRDRmd6ZtLrGyxwSJAA7Fy-hbcwuCgwe5SXEYga9gK-2UDlptcv1Wvdx5ZIqP72axhoCQEvw_wcB) which has every possible feature enabling it to make any kind of coffee beverage imaginable. 
